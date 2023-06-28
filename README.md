@@ -6,7 +6,7 @@ Program develop to allow user work with 2 different finance calculators: investm
 2. Install python in your computer.
 3. You need to clone this github repository in your local machine or download the code file with .py extension to run it in your IDE.
 
-## Usage section
+## How to use it
 When you run the program you will get this welcome message. 
 <img width="850" alt="Captura de pantalla 2023-06-28 a las 5 40 53" src="https://github.com/JuanjoQuero/finalCapstone/assets/133194680/428b86e6-5db9-4b16-85b9-29610743e708">
 You can choose between 2 options: Investment and Bond.
